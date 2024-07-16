@@ -5,14 +5,10 @@ import javafx.scene.text.Text;
 import javafx.scene.text.Font;
 
 /**
- * Class: CMSC 335
- * Instructor: Didier Vergamini
  * 
- * Description: Project 3
  * This class is the representation of the road and is a custom
  * Pane that will be the main animation portion of the UI.  
  *  			
- * Due: 05/07/2024
  * 
  * Platform/compiler: Java Build 18.0.2.1/Eclipse IDE 4.24.0
 
