@@ -7,13 +7,8 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 /**
-* Class: CMSC 335
-* Instructor: Didier Vergamini
 * 
-* Description: Project 3
 * This class will provide the current system time display updated in the UI once every second.  
-*  			
-* Due: 05/07/2024
 * 
 * Platform/compiler: Java Build 18.0.2.1/Eclipse IDE 4.24.0
 
