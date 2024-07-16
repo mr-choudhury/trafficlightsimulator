@@ -12,14 +12,10 @@ import java.util.Random;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * Class: CMSC 335
- * Instructor: Didier Vergamini
  * 
- * Description: Project 3
  * This class represents each Traffic light and implements the Runnable class
  * Each instance of Traffic light runs in its own thread.
  *  			
- * Due: 05/07/2024
  * 
  * Platform/compiler: Java Build 18.0.2.1/Eclipse IDE 4.24.0
 
