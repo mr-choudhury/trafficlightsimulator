@@ -21,10 +21,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Class: CMSC 335
- * Instructor: Didier Vergamini
  * 
- * Description: Project 3
  * Program that creates a JavaFX GUI that simulates Traffic Lights and
  * cars. Each traffic light runs on its own thread as well as each car.
  * Simulation can be started and will begin with selected number of lights and cars.
@@ -39,7 +36,6 @@ import java.util.List;
  * A live informational display table is provided to show the current speed and 
  * position of every car in the simulation.
  *  			
- * Due: 05/07/2024
  * 
  * Platform/compiler: Java Build 18.0.2.1/Eclipse IDE 4.24.0
 
